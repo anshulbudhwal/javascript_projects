@@ -1,2 +1,2 @@
 # javascript_projects
-HTML CSS JAVASCRIPT PROJECTS
+html css javascript projects
